@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+
+    .d1 {
+        @apply border-2 border-red-600;
+    }
+
+    /*.custom_height {*/
+    /*    @apply sm:custom_height_sm  md:custom_height_md d1 ;*/
+    /*}*/
+    .d2 {
+        @apply border-4 border-yellow-500;
+    }
+
+}

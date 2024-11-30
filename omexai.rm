@@ -1,0 +1,7 @@
+git add   resources/js/router/router.js
+
+git add   public/images/new/mob-bg.png
+git add   public/images/new/page-bg.png
+git add   resources/js/NewFrontend/components/Common/
+git add   resources/js/NewFrontend/components/Payments/
+git add   resources/js/NewFrontend/personalCabinet/payments/
